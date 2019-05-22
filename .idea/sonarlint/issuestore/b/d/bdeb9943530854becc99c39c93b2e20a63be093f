@@ -1,0 +1,21 @@
+
+Esquid:EmptyStatementUsageCheckk"Remove this empty statement.(Ì£ö
+ssquid:S00116"[Rename this field "mButton_volumeUp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÅÚ
+ksquid:S00116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›—íúÿÿÿÿ
+Esquid:EmptyStatementUsageCheckz"Remove this empty statement.(Ì£ö
+usquid:S00116"]Rename this field "mButton_volumeDown" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©†¹î
+rsquid:S00116"[Rename this field "mTextView_volume" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÙÎ
+nsquid:S3776#"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¨Œşÿÿÿÿ
+bsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(àÕºâ
+?squid:S11486"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>squid:S1659d"'Declare "nowVolume" on a separate line.(±ˆÔ–
+‡squid:S1450"kRemove the "mToggleButton_audioOpenClose" field and declare it as a local variable in the relevant methods.(Ï¶îşÿÿÿÿ
+|squid:S00116"dRename this field "mToggleButton_volumeLimit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŒä
+Esquid:EmptyStatementUsageCheckS"Remove this empty statement.(Ì£ö
+Esquid:EmptyStatementUsageChecks"Remove this empty statement.(Ì£ö
+>squid:S1659D"'Declare "nowVolume" on a separate line.(±ˆÔ–
+ssquid:S1450"WRemove the "mContext" field and declare it as a local variable in the relevant methods.(ïàÇ«ûÿÿÿÿ
+Esquid:EmptyStatementUsageCheckK"Remove this empty statement.(Ì£ö
+„squid:S00116"gRename this field "mToggleButton_audioOpenClose" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¶îşÿÿÿÿ
+Esquid:S1185"(Remove this method to simply inherit it.(İßéàúÿÿÿÿ
+Esquid:EmptyStatementUsageCheckZ"Remove this empty statement.(Ì£ö

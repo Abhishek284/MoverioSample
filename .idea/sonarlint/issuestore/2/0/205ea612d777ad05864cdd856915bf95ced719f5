@@ -1,0 +1,44 @@
+
+tsquid:S1450)"]Remove the "mCheckBox_grav" field and declare it as a local variable in the relevant methods.(¯“½Å
+{squid:S001164"cRename this field "mSensorDataListener_gyro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åç×
+qsquid:S00116&"YRename this field "mCheckBox_gyro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ²–
+squid:S001163"bRename this field "mSensorDataListener_mag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£òÄ‡úÿÿÿÿ
+osquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(«Ä°»üÿÿÿÿ8­®²«-
+@squid:S1148ø"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+|squid:S001165"dRename this field "mSensorDataListener_light" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â—ã
+@squid:S1148…"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+tsquid:S1450&"]Remove the "mCheckBox_gyro" field and declare it as a local variable in the relevant methods.(ñ²–
+usquid:S001161"]Rename this field "mTextView_rvResult" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¡ç
+usquid:S00116%"XRename this field "mCheckBox_mag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú‰òºÿÿÿÿÿ
+qsquid:S00116)"YRename this field "mCheckBox_grav" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯“½Å
+wsquid:S1450*"[Remove the "mCheckBox_rv" field and declare it as a local variable in the relevant methods.(¿åÏãüÿÿÿÿ
+wsquid:S00116'"ZRename this field "mCheckBox_light" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ñıÿÿÿÿ
+‹"squid:ClassVariableVisibilityCheck…"UMake rotations a static final constant or non-public and provide accessors if needed.(Ñ¢‡¾8·Õ¨²«-
+osquid:S00116("WRename this field "mCheckBox_la" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«É¹
+zsquid:S001162"bRename this field "mSensorDataListener_acc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¿¦À
+ksquid:S00116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›—íúÿÿÿÿ
+nsquid:S3776;"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(¨Œşÿÿÿÿ
+Esquid:S1185‡"(Remove this method to simply inherit it.(İßéàúÿÿÿÿ
+?squid:S1148T"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+tsquid:S00116*"WRename this field "mCheckBox_rv" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿åÏãüÿÿÿÿ
+?squid:S1148m"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+usquid:S00116/"]Rename this field "mTextView_laResult" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¤ï…
+@squid:S1148Ğ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+ssquid:S1450$"\Remove the "mCheckBox_acc" field and declare it as a local variable in the relevant methods.(İòÆ‡
+ssquid:S1450 "WRemove the "mContext" field and declare it as a local variable in the relevant methods.(ïàÇ«ûÿÿÿÿ
+wsquid:S00116-"_Rename this field "mTextView_gyroResult" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô
+@squid:S1148·"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Csquid:S1068"'Remove this unused "TAG" private field.(›—íúÿÿÿÿ
+vsquid:S00116,"^Rename this field "mTextView_magResult" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÈ¤
+vsquid:S00116+"^Rename this field "mTextView_accResult" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾èÁ²
+psquid:S00116$"XRename this field "mCheckBox_acc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İòÆ‡
+{squid:S001167"cRename this field "mSensorDataListener_grav" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â­¬
+rsquid:S1450("[Remove the "mCheckBox_la" field and declare it as a local variable in the relevant methods.(«É¹
+xsquid:S1450%"\Remove the "mCheckBox_mag" field and declare it as a local variable in the relevant methods.(ú‰òºÿÿÿÿÿ
+zsquid:S1450'"^Remove the "mCheckBox_light" field and declare it as a local variable in the relevant methods.(‘ñıÿÿÿÿ
+~squid:S001166"aRename this field "mSensorDataListener_la" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ê¢“ûÿÿÿÿ
+wsquid:S001160"_Rename this field "mTextView_gravResult" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú‹ã—
+osquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(Í¬Œ—úÿÿÿÿ8¹Õ­²«-
+ysquid:S001168"aRename this field "mSensorDataListener_rv" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’º§ã
+@squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+}squid:S00116."`Rename this field "mTextView_lightResult" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó½øôÿÿÿÿÿ

@@ -1,0 +1,14 @@
+
+ssquid:S1450 "WRemove the "mContext" field and declare it as a local variable in the relevant methods.(ïàÇ«ûÿÿÿÿ
+{squid:S00116)"^Rename this field "mSwitch_displayMode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º‘Ê°üÿÿÿÿ
+~squid:S00116("aRename this field "mSwitch_brightnessMode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¨——üÿÿÿÿ
+squid:S1450&"kRemove the "toggleButton_deviceOpenClose" field and declare it as a local variable in the relevant methods.(¬¼ÆÉıÿÿÿÿ8¾°ØÈ­-
+˜squid:S1186T"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ÁÕ–
+‚squid:S00116'"eRename this field "mSeekBar_displayBrightness" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ææê‘ûÿÿÿÿ
+„squid:S00116&"gRename this field "toggleButton_deviceOpenClose" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¼ÆÉıÿÿÿÿ
+Dsquid:S1185w"(Remove this method to simply inherit it.(İßéàúÿÿÿÿ
+esquid:UselessImportCheck"5Remove this unused import 'android.app.Presentation'.(–Œ›Ûûÿÿÿÿ8¬Â¶Í­-
+squid:S1186P"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ®çâùÿÿÿÿ
+Csquid:S1068"'Remove this unused "TAG" private field.(›—íúÿÿÿÿ
+ksquid:S00116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›—íúÿÿÿÿ
+?squid:S1148?"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

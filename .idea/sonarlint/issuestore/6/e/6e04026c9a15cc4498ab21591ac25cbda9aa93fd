@@ -1,0 +1,59 @@
+
+†squid:S14501"jRemove the "mToggleButton_start_preview" field and declare it as a local variable in the relevant methods.(ºÎñ¸üÿÿÿÿ
+‚squid:S001168"^Rename this field "mButton_takePicture" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú‡¸‡ûÿÿÿÿ8Ë…ı®«-
+…squid:S14508"bRemove the "mButton_takePicture" field and declare it as a local variable in the relevant methods.(ú‡¸‡ûÿÿÿÿ8Ë…ı®«-
+tsquid:S001163"\Rename this field "mSeekBar_exposure" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÙ¼ƒ
+{squid:S001166"cRename this field "mRadioGroup_whitebalance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òå´ò
+Fsquid:EmptyStatementUsageCheckŞ"Remove this empty statement.(Ì£ö
+Csquid:S1659©"$Declare "height" on a separate line.(àµ™¯8ˆÆô°«-
+Nsquid:EmptyStatementUsageCheckŒ"Remove this empty statement.(ßò™¹8ˆÆô°«-
+™squid:S1186ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ÁÕ–
+ksquid:S00116'"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›—íúÿÿÿÿ
+osquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(Ëéÿëøÿÿÿÿ8ˆÆô°«-
+|squid:S001162"_Rename this field "mSwitch_autoExposure" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îœ‚—øÿÿÿÿ
+wsquid:S1450/"aRemove the "mToggleButton_open" field and declare it as a local variable in the relevant methods.(ŠÂ?
+~squid:UselessImportCheck"NRemove this unused import 'com.epson.moverio.test.utility.UsbCdcControlDummy'.(ªœğ¹üÿÿÿÿ8åÓ‰±«-
+Gsquid:EmptyStatementUsageCheckƒ"Remove this empty statement.(ßò™¹
+xsquid:S00116:"`Rename this field "mTextView_captureRate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¹Äß
+~squid:S00116="aRename this field "mTextView_camApiResult" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¿ŸÓÿÿÿÿÿ
+tsquid:S00116/"]Rename this field "mToggleButton_open" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÂ?
+usquid:S001165"]Rename this field "mSeekBar_sharpness" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÌ´ó
+jsquid:MaximumInheritanceDepth&"<This class has 7 parents which is greater than 5 authorized.(Û“©Æøÿÿÿÿ
+¤squid:S1186^"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÕĞü»úÿÿÿÿ8˜ü¨±«-
+isquid:S3776•"RRefactor this method to reduce its Cognitive Complexity from 65 to the 15 allowed.(ºŠñ=
+squid:S001169"bRename this field "mToggleButton_redording" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤’üÚıÿÿÿÿ
+Msquid:EmptyStatementUsageCheckÓ"Remove this empty statement.(Ì£ö8ˆÆô°«-
+Ÿsquid:S1186c"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®Òı‰8˜ü¨±«-
+Tsquid:S2387"8"mHandler" is the name of a field in "FragmentActivity".(×»ëØşÿÿÿÿ
+xsquid:S3923í"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Úü±ˆùÿÿÿÿ
+~squid:S14500"bRemove the "mToggleButton_start" field and declare it as a local variable in the relevant methods.(á®Ï×üÿÿÿÿ
+{squid:S001160"^Rename this field "mToggleButton_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á®Ï×üÿÿÿÿ
+Gsquid:S00108í")Either remove or fill this block of code.(Úü±ˆùÿÿÿÿ
+~squid:S14506"gRemove the "mRadioGroup_whitebalance" field and declare it as a local variable in the relevant methods.(Òå´ò
+¤squid:S1186h"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Öü€úÿÿÿÿ8˜ü¨±«-
+~squid:S00116;"aRename this field "mTextView_propertyInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òçîøÿÿÿÿ
+Ÿsquid:S1186T"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€’ŞÜ8˜ü¨±«-
+™squid:S1186Í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ÁÕ–
+usquid:S001164"]Rename this field "mSeekBar_brighness" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É÷õ
+squid:S1186Ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ®çâùÿÿÿÿ
+squid:S001167"iRename this field "mRadioGroup_powerLineFrequency" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢öñª
+]squid:S2184Ú"@Cast one of the operands of this integer division to a "double".( ¯¾©úÿÿÿÿ
+Bsquid:S00108ï")Either remove or fill this block of code.(á¢–¬
+gsquid:S1192£"ODefine a constant instead of duplicating this literal "setProperty : " 7 times.(Èµ“Ä
+@squid:S1148é"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+¤squid:S1186Y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õİîÂûÿÿÿÿ8˜ü¨±«-
+Fsquid:EmptyStatementUsageCheckç"Remove this empty statement.(Ì£ö
+squid:S1186²"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ®çâùÿÿÿÿ
+ƒsquid:S001161"fRename this field "mToggleButton_start_preview" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÎñ¸üÿÿÿÿ
+Nsquid:EmptyStatementUsageCheck•"Remove this empty statement.(ßò™¹8ˆÆô°«-
+Esquid:EmptyStatementUsageChecky"Remove this empty statement.(Ì£ö
+Gsquid:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ïê§±«-
+@squid:S1659©"!Declare "fps" on a separate line.(àµ™¯8ˆÆô°«-
+ysquid:S1450<"bRemove the "mButton_getProperty" field and declare it as a local variable in the relevant methods.(á
+™squid:S1186·"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ÁÕ–
+Ÿsquid:S1186m"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô§°8˜ü¨±«-
+vsquid:S00116<"^Rename this field "mButton_getProperty" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á
+Wsquid:S1197œ"8Move the array designator from the variable to the type.(¯ÜÑñ8ˆÆô°«-
+squid:S1186È"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ®çâùÿÿÿÿ
+‚squid:S14509"fRemove the "mToggleButton_redording" field and declare it as a local variable in the relevant methods.(¤’üÚıÿÿÿÿ
+hsquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(‰‹Šøûÿÿÿÿ
